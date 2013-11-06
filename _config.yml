@@ -3,9 +3,9 @@
 # ----------------------- #
 
 url: http://fedddotov.github.io
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+title: Fedddotov Blog
+subtitle: What?
+author: Vasiliy Fedotov
 simple_search: http://google.com/search
 description:
 
@@ -16,7 +16,7 @@ description:
 date_format: "ordinal"
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
-subscribe_rss: /atom.xml
+subscribe_rss: 
 subscribe_email:
 # RSS feeds can list your email address if you like
 email:
